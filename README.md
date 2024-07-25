@@ -7,7 +7,7 @@ Also used docker for setup.
   - The data I used In my notebook is private but, you can follow the notebook with the [data](https://www.kaggle.com/datasets/yasserh/nyc-taxi-trip-duration)
 
 
-### How to run the model
+### How to run the modeleling.py file
 - First setup the dockerfiles.
 - Then run the container. the container will run the code and print the results.
     
